@@ -8,5 +8,4 @@
 1. Remote repo létrehozás a projekthez a GitHub-on  
 1. Kapcsolódás a távoli repohoz - git remote add origin távoli repo elérési kódja; https://github.com/NemethKrisztofer07/Test git branch -M main; git push -u origin main    
 1. Módosítás a remote repoban is és itt is.
-1. Kapcsolódás a távoli repohoz - git remote add origin távoli repo elérési kódja; git branch -M main; git push -u origin main    
-1. Konfliktuskezelés
+1. Konfliktuskezelés.
